@@ -1,16 +1,21 @@
 # store_app
 
-A new Flutter project.
+Developed a user-friendly shopping application using Flutter, providing a seamless and enjoyable shopping experience. The app includes essential features such as product listings, cart management, and secure checkout. Leveraged Flutter's widget library for an aesthetically pleasing and responsive UI. Integrated functionalities for product searching, filtering, and order tracking to enhance user convenience.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+API Integration using Http package with help of postman
+Loding Indicators using modal_progress_hud_nsn
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+1. Login /Register Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Products Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Categories Screen
+
+4. Search Screen
+
+5. Favorites Screen
+
+6. Setting Screen
