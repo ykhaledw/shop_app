@@ -4,9 +4,9 @@ Developed a user-friendly shopping application using Flutter, providing a seamle
 
 ## Tools
 
-API Integration using Http package with help of postman
-Loading Indicators using modal_progress_hud_nsn
-State Management ( Cubit )
+- API Integration using Http package with help of postman
+- Loading Indicators using modal_progress_hud_nsn
+- State Management ( Cubit )
 
 ## Features
 1. Login /Register Screen
